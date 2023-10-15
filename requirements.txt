@@ -1,7 +1,6 @@
-numpy==1.22.0
-keras==2.2.4
-tensorflow-gpu==2.12.0
-tensorflow==2.11.1
+numpy>=1.24.3
+keras>=2.13.1
+tensorflow>=2.13.1
 -e git://github.com/keras-team/keras-contrib.git#egg=keras-contrib
-pillow==10.0.1
-matplotlib==3.0.3
+pillow>=10.0.1
+matplotlib>=3.7.3
